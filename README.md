@@ -1,2 +1,2 @@
 # pruebas_curso
-Repositorio de ejemplo
+##Repositorio de ejemplo
